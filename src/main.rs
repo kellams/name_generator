@@ -1,5 +1,13 @@
 /* Asks user for number of syllables and number of words to generate
- * then returns the requested number.
+ * then generates words based on the given values.
+ * 
+ * Example:
+ * How many syllables?
+ * 3
+ * How many words?
+ * 2
+ * celera
+ * nesico
  */
 
 extern crate rand;
