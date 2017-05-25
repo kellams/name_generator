@@ -1,3 +1,7 @@
+/* Asks user for number of syllables and number of words to generate
+ * then returns the requested number.
+ */
+
 extern crate rand;
 
 use std::io;
